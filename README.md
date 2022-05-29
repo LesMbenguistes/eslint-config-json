@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LesMbenguistes/assets/blob/main/images/Mbeng.png" width="500px" alt="" />
+  <img src="https://github.com/LesMbenguistes/assets/blob/main/images/Mbeng.png" width="300px" alt="" />
 </div>
 
 # Mbeng Eslint Config (JSON)
