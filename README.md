@@ -6,6 +6,24 @@
 
 Mbeng's eslint configuration based off our own config.
 
+# Summary
+
+- [Basic rules](#basic-rules)
+- [Class vs function](#class-vs-function)
+- [Naming](#naming)
+- [Declaration](#declaration)
+- [Alignment](#alignment)
+- [Quotes](#quotes)
+- [Spacing](#spacing)
+- [Props](#props)
+- [Refs](#refs)
+- [Tags](#tags)
+- [Methods](#methods)
+- [Type vs interface](#type-vs-interface)
+- [Constants and variables](#constants-and-variables)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Basic Rules
 
 - Only include one React component per file.
